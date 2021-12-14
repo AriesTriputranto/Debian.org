@@ -13,7 +13,7 @@
 
 * Blog.Debian
 
-[Blogger](https://Debian.org/Blog
+[Blogger](https://Debian.org/Blog)
 
 Licence 
 [MIT](https://creativecommon.org/MIT)
