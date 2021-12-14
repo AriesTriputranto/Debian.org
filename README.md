@@ -11,9 +11,9 @@
 
 [SHA256Sums](https://Debian.org/SHA256Sums)
 
-* Blog
+* Blog.Debian
 
-(https://Debian.org/Blog
+[Blogger](https://Debian.org/Blog
 
 Licence 
 [MIT](https://creativecommon.org/MIT)
